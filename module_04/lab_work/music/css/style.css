@@ -107,3 +107,13 @@ footer a {
     color: #4645a8;
     text-decoration: none;
 }
+
+.action {
+    font-size: 1.35em;
+    color: #666600;
+    font-weight: bold;
+}
+
+.map {
+    border: 8px solid #000;
+}
