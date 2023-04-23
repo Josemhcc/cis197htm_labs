@@ -141,16 +141,6 @@ footer a {
     text-decoration: none;
 }
 
-.action {
-    font-size: 1.35em;
-    color: #666600;
-    font-weight: bold;
-}
-
-.map {
-    border: 8px solid #000;
-}
-
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 550px), print {
     /* Tablet Viewport: Show tab-desk class, hide mobile class */
@@ -188,6 +178,7 @@ footer a {
 
     /* Tablet Viewport: Style rule for map */
     .map {
+        border: 8px solid #000;
         width: 500px;
         height: 450px;
     }
