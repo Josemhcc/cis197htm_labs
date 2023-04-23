@@ -169,7 +169,7 @@ footer a {
         border-right: none;
     }
 
-    nav li {
+    nav li a {
         padding-top: 0.25em;
         padding-bottom: 0.25em;
         padding-left: 0.5em;
@@ -185,6 +185,11 @@ footer a {
 
     /* Media Query for Desktop Viewport */
     @media screen and (min-width: 769px) {
+
+        #container {
+            width: 770px;
+            margin: 0 auto;
+        }
     }
 
     /* Desktop Viewport: Style rule for header */

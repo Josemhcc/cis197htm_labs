@@ -73,12 +73,6 @@ main p {
     font-size: 1.25em;
 }
 
-.action {
-    font-size: 1.25em;
-    color: #373684;
-    font-weight: bold;
-}
-
 #piano, #guitar, #violin {
     margin: 0 2%;
 }
@@ -145,8 +139,4 @@ footer a {
     font-size: 1.35em;
     color: #666600;
     font-weight: bold;
-}
-
-.map {
-    border: 8px solid #000;
 }
