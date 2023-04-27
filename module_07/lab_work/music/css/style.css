@@ -29,6 +29,7 @@ aside {
     font-weight: bold;
     color: #373684;
     text-shadow: 3px 3px 10px #8280cb;
+    grid-column: 1 / span 4;
 }
 
 figure {
