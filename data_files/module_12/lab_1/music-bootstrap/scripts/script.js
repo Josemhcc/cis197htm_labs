@@ -1,7 +1,7 @@
 /*
-    Student Name:
+    Student Name: Jose Avendano
     File Name: script.js
-    Date: 
+    Date: 5/8/2023
 */
 
 //jQuery for hero image to consume the header window space
